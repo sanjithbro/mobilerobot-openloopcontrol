@@ -92,20 +92,12 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
-
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+(https://youtube.com/shorts/53M7hfWhRfc?si=nbNe26Bq0_wUvfiM)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
